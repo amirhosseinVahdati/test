@@ -1,3 +1,3 @@
 <?php 
-	echo"vhdt";
+	echo"amir";
 ?>
